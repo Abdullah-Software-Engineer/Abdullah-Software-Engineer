@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Muhammad Abdullah
+</h1>
 
-<!--
-**Abdullah-Software-Engineer/Abdullah-Software-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Senior Frontend Developer | Full Stack Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building scalable SaaS applications with React, Python & Cloud Technologies
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 About Me
+
+💻 Senior Frontend Developer with **6+ years of experience** building scalable web applications.
+
+🏢 Currently working at **REON ENERGY LIMITED** building **SPARK**, a multi-tenant energy analytics SaaS platform serving **10,000+ industrial sites**.
+
+⚡ Experienced in:
+- Frontend architecture
+- High-performance React applications
+- Interactive dashboards
+- SaaS platforms
+- Cloud-based solutions
+
+🌱 Currently exploring:
+- Python Backend Development
+- Flask
+- FastAPI
+- AI Engineering
+- Cloud Native Architecture
+
+
+---
+
+## 🛠️ Tech Stack
+
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,scss" />
+</p>
+
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
+</p>
+
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github" />
+</p>
