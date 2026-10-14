@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Building scalable SaaS applications with React, Python & Cloud Technologies
+  Building scalable SaaS applications with Angular, React, Python & Cloud Technologies
 </p>
 
 
@@ -21,6 +21,7 @@
 
 ⚡ Experienced in:
 - Frontend architecture
+- Modern Angular applications
 - High-performance React applications
 - Interactive dashboards
 - SaaS platforms
@@ -42,7 +43,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,scss" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,tailwind,redux,scss" />
 </p>
 
 
